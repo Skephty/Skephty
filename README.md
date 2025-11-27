@@ -73,16 +73,3 @@ const skephty = {
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Skephty&theme=github-dark&hide_border=true)
 
 </div>
-
----
-
-
-May your commits be clean,
-May your merges be smooth,
-May your bugs be findable,
-And may your coffee never get cold ☕
-```
-
-**[↑ Back to Top](#-skephty's-reality-hub)**
-
-</div>
