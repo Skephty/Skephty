@@ -62,7 +62,7 @@ const skephty = {
 ```
 
 **[→ Explore All Projects](https://github.com/Skephty?tab=repositories)**
-
+**[My leetcode](https://leetcode.com/u/skephty/)
 ---
 
 ## 📊 The Numbers Game
