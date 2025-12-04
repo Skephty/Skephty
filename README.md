@@ -68,7 +68,7 @@ const skephty = {
 ## 📊 The Numbers Game
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skephty&hide=css,scss,html&theme=tokyonight)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=skephty)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Skephty&theme=github-dark&hide_border=true)
