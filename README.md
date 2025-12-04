@@ -68,7 +68,7 @@ const skephty = {
 ## 📊 The Numbers Game
 <div align="center">
 
-<img src="https://your-vercel-app.vercel.app/api?username=skephty&show_icons=true&count_private=true" />
+<img src="https://your-vercel-app.vercel.app/api?username=Skephty&show_icons=true&count_private=true" />
 
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Skephty&theme=github-dark&hide_border=true)
